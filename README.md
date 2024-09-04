@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![googleearthengine](https://img.shields.io/badge/google%20earth%20engine-4285F4.svg?&style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)

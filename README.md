@@ -10,10 +10,10 @@
 
 <h3><b>프로젝트</b></h3>
 
-- **[토이프로젝트](https://github.com/Mujae/Python_Project)**
+- **[SKHUAdventure : 성공회대학교 탐방앱 + 성공회대학교 건물 Dataset 구축 2024/03/02 ~ 2024/09/20](https://github.com/Mujae/https://github.com/SKHU-Adventure)**
 - **[수자원공사 : 응집제 주입률, 원수 탁도 예측 모델링 2023/09/04 ~ 2023/10/13](https://github.com/Mujae/K-Water_Project)**
 - **[국립공원공단 : 위성영상을 활용한 변화탐지 서비스 2023/10/23 ~ 2023/11/30](https://github.com/Mujae/SAR-Bluecarbon-Service)**
-- **[SKHUAdventure : 성공회대학교 탐방앱 + 성공회대학교 건물 Dataset 구축 2024/03/02 ~ 2024/09/20](https://github.com/Mujae/https://github.com/SKHU-Adventure)**
+- **[토이프로젝트](https://github.com/Mujae/Python_Project)**
 
 
 <h3><b>백준</b></h3>

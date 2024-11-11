@@ -11,7 +11,7 @@
 <h3><b>프로젝트</b></h3>
 
 - **[Naver Boostcamp : Open Domain Question Answering project](https://github.com/boostcampaitech7/level2-mrc-nlp-05)**  
-- **[Naver Boostcamp : Semantic Text Similarity project](https://github.com/SKHU-Adventure/ai-place-recognition)**  
+- **[Naver Boostcamp : Semantic Text Similarity project](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-05)**  
 - **[SKHUAdventure : 성공회대학교 탐방앱](https://github.com/SKHU-Adventure)**
 - **[수자원공사 : 응집제 주입률, 원수 탁도 예측 모델링](https://github.com/Mujae/K-Water_Project)**
 - **[국립공원공단 : 위성영상을 활용한 변화탐지 서비스](https://github.com/Mujae/SAR-Bluecarbon-Service)**

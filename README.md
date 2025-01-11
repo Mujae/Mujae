@@ -15,7 +15,6 @@
 - **[Naver Boostcamp : Data-Centric Text Classification](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-05)**
 - **[Naver Boostcamp : Semantic Text Similarity](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-05)**  
 - **[SKHU : Campus Tour Application Development](https://github.com/SKHU-Adventure)**
-- **[K-Water : Prediction of Raw Water Turbidity and Coagulant Dosage Rates](https://github.com/Mujae/K-Water_Project)**
 - **[National Park : National Park Change Detection Service](https://github.com/Mujae/SAR-Bluecarbon-Service)**
 
 

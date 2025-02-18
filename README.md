@@ -10,6 +10,7 @@
 
 <h3><b>Projects</b></h3>
 
+- **[Naver Boostcamp : Financial RAG Service](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-11-lv3)**
 - **[Naver Boostcamp : Generative Model for Exam-Style Problem Solving](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-11-lv3)**
 - **[Naver Boostcamp : Open Domain Question Answering](https://github.com/boostcampaitech7/level2-mrc-nlp-05)**
 - **[Naver Boostcamp : Data-Centric Text Classification](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-05)**

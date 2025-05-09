@@ -12,8 +12,6 @@
 
 - **[Naver Boostcamp : Financial RAG Service](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-11-lv3)**
 - **[Naver Boostcamp : Generative Model for Exam-Style Problem Solving](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-11-lv3)**
-- **[Naver Boostcamp : Data-Centric Text Classification](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-05)**
-- **[Naver Boostcamp : Semantic Text Similarity](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-05)**  
 - **[SKHU : Campus Tour Application Development](https://github.com/SKHU-Adventure/ai-place-recognition)**
 - **[KNPS : SAR Bluecarbon Service](https://github.com/Mujae/SAR-Bluecarbon-Service)**
 
